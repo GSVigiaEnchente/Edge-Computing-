@@ -20,7 +20,7 @@ Fazer um componente que ajude as pessoas a identificarem a umidade do ar.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 🔗**Link do vídeo:**
-- 🔗Link do Video do arduino: [Arduino funcionando](https://youtu.be/0cmee0SxxN4)
+- 🔗Link do Video do arduino: [Arduino funcionando](https://youtu.be/Axf5ff-B1kE)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 📔**Bibliotecas usadas:**
