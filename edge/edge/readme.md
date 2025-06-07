@@ -31,4 +31,4 @@ Fazer um componente que ajude as pessoas a identificarem a umidade do ar.
 
 🖥️**Como simular o nosso projeto:**
 - Copie o código arduino e cole ele no Wokiwi ou no tinkercad (o de sua preferencia)
-- monte o arduino igual a imagem a seguir:![Arduino](arduino.png)
+- monte o arduino igual a imagem a seguir:![Arduino](image.png)
